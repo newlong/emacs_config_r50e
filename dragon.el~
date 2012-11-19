@@ -1,3 +1,0 @@
-
-(add-to-list 'load-path "/home/dragon/.emacs.d/slime/")
-(setq inferior-list-program "/usr/local/sbcl/bin/sbcl")
